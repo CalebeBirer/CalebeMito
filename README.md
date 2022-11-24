@@ -11,9 +11,9 @@ I'm a {backend, frontend} developer
 <div class='tools-img' align=center>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=75 height=75 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=75 height=75/>
   
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=calebemito&label=Profile%20views&color=0e75b6&style=flat" alt="calebemito" /> </p>
+
+
 
 
 
