@@ -28,7 +28,6 @@ Estudando para ser um Desenvolvedor BackEnd;
    </a>
 
 </div>
-
 ##
 
 <div align = "left">
