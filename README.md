@@ -27,6 +27,25 @@ Estudando para ser um Desenvolvedor BackEnd;
   title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
    </a>
 
+<a href = "https://github.com/CalebeMito">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg](https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png)"
+  title="GIT" width="50" height="50"/>&nbsp;
+   </a>
+
+<a href = "https://github.com/CalebeMito">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg](https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+  title="GIT" width="50" height="50"/>&nbsp;
+   </a>
+<a href = "https://github.com/CalebeMito">
+<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"
+  title="VS" width="50" height="50"/>&nbsp;
+   </a>
+
+<a href = "https://github.com/CalebeMito">
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4"
+  alt="Django" width="50" height="50"/>&nbsp;
+   </a>
+
 </div>
 
 
