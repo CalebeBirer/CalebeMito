@@ -28,12 +28,7 @@ Estudando para ser um Desenvolvedor BackEnd;
    </a>
 
 <a href = "https://github.com/CalebeMito">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg](https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png)"
-  title="GIT" width="50" height="50"/>&nbsp;
-   </a>
-
-<a href = "https://github.com/CalebeMito">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg](https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
   title="GIT" width="50" height="50"/>&nbsp;
    </a>
 <a href = "https://github.com/CalebeMito">
